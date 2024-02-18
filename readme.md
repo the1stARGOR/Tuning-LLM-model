@@ -15,6 +15,7 @@ For example, in the context of an e-commerce chatbot using RAG, knowledge ground
 
 ​
 ​
+```
 code
 ├─ full
 ├─ images
