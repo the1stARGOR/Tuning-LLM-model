@@ -16,7 +16,7 @@ from langchain.chains.question_answering import load_qa_chain
 
 st.title("Hi, I'm your Shopping ChatBot!")
 
-openai.api_key = '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'
+openai.api_key = [Enter API Key here]
 os.environ['OPENAI_API_KEY'] = openai.api_key
 tmp_directory = 'tmp'
 
